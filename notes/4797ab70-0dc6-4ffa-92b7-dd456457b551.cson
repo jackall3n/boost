@@ -1,0 +1,39 @@
+createdAt: "2020-03-25T13:12:47.656Z"
+updatedAt: "2020-04-01T14:34:05.370Z"
+type: "MARKDOWN_NOTE"
+folder: "7ec74362f7ac3ae392fb"
+title: "Setting up Suitability Locally"
+tags: []
+content: '''
+  # Setting up Suitability Locally
+  
+  ## Applications 
+   - [Suitability Front End](http:\\\\whdev:8080\\tfs\\creativetechnologiescollection\\mochi\\_git\\front-end)
+   - [Suitability API](http:\\\\whdev:8080\\tfs\\creativetechnologiescollection\\mochi\\_git\\api)
+   - [Document Renderer Service](http:\\\\whdev:8080\\tfs\\creativetechnologiescollection\\ctcore-documentrenderer-git\\_git\\ctcore-documentrenderer-git)
+   - [Token Server](http:\\\\whdev:8080\\tfs\\creativetechnologiescollection\\ctcore-identity\\_git\\ctcore-identity-token-server-git)
+   - CTSuite
+   - CTSuite API
+   - Enable Access API
+   - Enable
+  
+  ## Services
+   - Azure Storage Emulator
+   - NServiceBus(?)
+  
+  ## Databases
+   - Enable
+  
+  ## Others
+   - Benchmark SSL Certificates (*.ctsuitedev.com)
+   - NuGet Sources (Sync Fusion)
+  
+  
+'''
+linesHighlighted: [
+  10
+  14
+  17
+]
+isStarred: false
+isTrashed: false
