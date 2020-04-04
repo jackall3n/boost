@@ -1,0 +1,20 @@
+createdAt: "2020-02-20T10:07:53.168Z"
+updatedAt: "2020-04-01T14:34:02.053Z"
+type: "MARKDOWN_NOTE"
+folder: "7ec74362f7ac3ae392fb"
+title: "SRW explanation for Persgasus _noobs_"
+tags: []
+content: '''
+  # SRW explanation for Persgasus _noobs_
+  
+  ---
+  
+  - [x] Navigate README \\ Starting up the application
+  - [x] Explore types
+  - [x] Explore API endpoints
+  - [x] Explore Redux
+  - [ ] Slate
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false
